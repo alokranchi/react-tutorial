@@ -1,0 +1,179 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "name": "alok",
+      "password": "123"
+    },
+    {
+      "email": "nilson@email.com",
+      "password":"nilson"
+    },
+    {
+      "grant_type": "authorization_code",
+      "redirect_uri": "",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "name": "nilson@email.com",
+      "password": "nilson",
+      "id": 11
+    },
+    {
+      "name": "nilson@email.com",
+      "password": "nilson",
+      "id": 12
+    }
+  ],
+  "login": [
+    {
+      "name": "am",
+      "password": "am@test.com",
+      "id": 1
+    },
+    {
+      "name": "am",
+      "password": "am@test.com",
+      "id": 8
+    },
+    {
+      "name": "am",
+      "password": "am@test.com",
+      "id": 9
+    },
+    {
+      "name": "am",
+      "password": "am@test.com",
+      "id": 10
+    },
+    {
+      "name": "am",
+      "password": "am@test.com",
+      "id": 11
+    },
+    {
+      "name": "am",
+      "password": "am@test.com",
+      "id": 12
+    },
+    {
+      "name": "alok",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "name": "alok",
+      "password": "",
+      "id": 16
+    },
+    {
+      "name": "alok",
+      "password": "",
+      "id": 17
+    },
+    {
+      "name": "alok",
+      "password": "",
+      "id": 18
+    },
+    {
+      "name": "alok",
+      "password": "",
+      "id": 19
+    }
+  ],
+  "products":[
+    {
+      
+        "id": 1,
+        "name": "Product001",
+        "cost": 10,
+        "quantity": 1000,
+        "locationId": 1,
+        "familyId": 1
+    
+    }
+
+  ],
+  "restaurant": [
+    {
+      "name": "McDonald",
+      "email": "mcdonald@test.com",
+      "address": "kol",
+      "rating": "9",
+      "id": 2
+    },
+    {
+      "name": "W B Restaurant",
+      "email": "wbr@test.com",
+      "address": "Noida , Delhi",
+      "rating": "7",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Haldiram nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "noida",
+      "rating": "4.7",
+      "id": 6
+    },
+    {
+      "name": "alorestro",
+      "email": "alo@gmail.com",
+      "address": null,
+      "rating": "8",
+      "addres": "kol",
+      "id": 7
+    },
+    {
+      "name": "alorestro",
+      "email": "alo@gmail.com",
+      "address": null,
+      "rating": "8",
+      "addres": "kol",
+      "id": 8
+    }
+  ]
+}
